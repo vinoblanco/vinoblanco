@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinoblanco
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, java, c, haskell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
